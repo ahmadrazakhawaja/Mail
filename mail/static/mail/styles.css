@@ -1,0 +1,23 @@
+textarea {
+    min-height: 400px;
+}
+
+.emails{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+#email-information{
+    font-size: 30px;
+}
+
+#button1{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+#button2{
+    text-align: center;
+} 
+
